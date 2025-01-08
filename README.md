@@ -22,7 +22,7 @@ I have experience building cross-platform apps with seamless integration of offl
 
 ### 📫 Reach Me At
 - 📧 Email: [khattababdu80@gmail.com](mailto:khattababdu80@gmail.comm)
-- 🌐 Portfolio: [khattababdudev.netlify.app](https://khattababdudev.netlify.ap) *(if applicable)*
+- 🌐 Portfolio: [khattababdudev.netlify.app](https://khattababdudev.netlify.ap) 
 
 ### 😄 Pronouns
 Flutter Developer
